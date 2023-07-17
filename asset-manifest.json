@@ -1,17 +1,13 @@
 {
   "files": {
-    "main.css": "/MaharMudasar532/pamoja_penal/static/css/main.98ec47ca.css",
-    "main.js": "/MaharMudasar532/pamoja_penal/static/js/main.9da7292f.js",
-    "static/media/bg-sign-in-basic.jpeg": "/MaharMudasar532/pamoja_penal/static/media/bg-sign-in-basic.f327db1d0e4b00ba3c81.jpeg",
-    "static/media/team-2.jpg": "/MaharMudasar532/pamoja_penal/static/media/team-2.13ae2ce3e12f4cfed420.jpg",
-    "static/media/team-3.jpg": "/MaharMudasar532/pamoja_penal/static/media/team-3.0ef0be95e6850814c79e.jpg",
-    "static/media/team-4.jpg": "/MaharMudasar532/pamoja_penal/static/media/team-4.85c82b6e60178804017f.jpg",
-    "index.html": "/MaharMudasar532/pamoja_penal/index.html",
-    "main.98ec47ca.css.map": "/MaharMudasar532/pamoja_penal/static/css/main.98ec47ca.css.map",
-    "main.9da7292f.js.map": "/MaharMudasar532/pamoja_penal/static/js/main.9da7292f.js.map"
+    "main.css": "/pamojaTalk/static/css/main.b8ba26f6.css",
+    "main.js": "/pamojaTalk/static/js/main.bcf6c7c0.js",
+    "index.html": "/pamojaTalk/index.html",
+    "main.b8ba26f6.css.map": "/pamojaTalk/static/css/main.b8ba26f6.css.map",
+    "main.bcf6c7c0.js.map": "/pamojaTalk/static/js/main.bcf6c7c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.98ec47ca.css",
-    "static/js/main.9da7292f.js"
+    "static/css/main.b8ba26f6.css",
+    "static/js/main.bcf6c7c0.js"
   ]
 }
